@@ -56,3 +56,22 @@ VAR Conc = CONCATENATEX(VALUES(diamonds[clarity]);
 [Diamonds Clarity Selection];",")
 RETURN(Conc)
 ```
+
+### Folder: 03_Measures_Copy
+
+Power BI on copying mesures between datasets in same Power BI document using Power BI Template and [Tabular Editor](https://github.com/otykier/TabularEditor/releases/tag/2.9.2).
+
+
+
+
+## Cloning the repository
+You can follow the steps below to clone the repository. 
+```
+git clone -n https://github.com/tomaztk/DAX_Functions.git
+```
+
+## License
+These samples and templates are all licensed under the MIT license.
+
+## Questions
+Email questions to: tomaztsql@gmail.com
