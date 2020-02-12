@@ -61,8 +61,8 @@ RETURN(Conc)
 
 Power BI on copying mesures between datasets in same Power BI document using Power BI Template and [Tabular Editor](https://github.com/otykier/TabularEditor/releases/tag/2.9.2).
 
-Using Tabular Editor for copying measures.
-![Tabular Editor to copy measures](./img/03_copy.png)
+![Tabular Editor to copy measures](./img/3_copy.png)
+Using Tabular Editor for copying measures
 
 
 ## Cloning the repository
