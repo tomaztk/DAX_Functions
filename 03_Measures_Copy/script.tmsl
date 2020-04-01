@@ -1,0 +1,17 @@
+{
+  "create": {
+    "parentObject": {
+      "database": "225379f8-1935-4552-8c67-c2d871d8f9e2",
+      "table": "diamonds"
+    },
+    "partition": {
+      "name": "diamonds-172401f5-5cef-4da8-bed3-60727eb61147",
+      "mode": "import",
+      "source": {
+        "type": "query",
+        "query": "SELECT * FROM [diamonds]",
+        "dataSource": "67f1b5aa-4945-4ec3-80e3-a574d7b3909c"
+      }
+    }
+  }
+}
