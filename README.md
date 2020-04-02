@@ -66,6 +66,15 @@ Power BI on copying mesures between datasets in same Power BI document using Pow
 Using Tabular Editor for copying measures
 
 
+### Folder: 04_Custom_Visual
+
+Power BI custom visual can be prepared and exported using   [Charts PowerBI.Tips](https://charts.powerbi.tips/).
+
+![Charts PowerBI.Tips](./img/4_custom.png)
+
+Using Custom Power BI Visual
+
+
 ## Cloning the repository
 You can follow the steps below to clone the repository. 
 ```
