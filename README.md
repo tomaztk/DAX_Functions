@@ -79,7 +79,7 @@ Using Custom Power BI Visual
 
 Power BI example on using Row-level security.
 
-![RLS in work](./img/5_RLS.png)
+![RLS in work](./img/5_rls.png)
 
 Sample view of RLS in Power BI
 
