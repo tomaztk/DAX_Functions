@@ -75,6 +75,16 @@ Power BI custom visual can be prepared and exported using   [Charts PowerBI.Tips
 Using Custom Power BI Visual
 
 
+### Folder: 04_Row_Level_security
+
+Power BI example on using Row-level security.
+
+![RLS in work](./img/5_RLS.png)
+
+Sample view of RLS in Power BI
+
+
+
 ## Cloning the repository
 You can follow the steps below to clone the repository. 
 ```
