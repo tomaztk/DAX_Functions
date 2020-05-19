@@ -75,13 +75,22 @@ Power BI custom visual can be prepared and exported using   [Charts PowerBI.Tips
 Using Custom Power BI Visual
 
 
-### Folder: 04_Row_Level_security
+### Folder: 05_Row_Level_security
 
 Power BI example on using Row-level security.
 
 ![RLS in work](./img/5_rls.png)
 
 Sample view of RLS in Power BI
+
+
+### Folder: 06_Measures_as_slicer
+
+Power BI example on getting  measures as a slicer in Power BI.
+
+![RLS in work](./img/6_MiSlic.png)
+
+View of slicer with measure names in Power BI
 
 
 
