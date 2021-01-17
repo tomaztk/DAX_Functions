@@ -88,7 +88,7 @@ Sample view of RLS in Power BI
 
 Power BI example on getting  measures as a slicer in Power BI.
 
-![RLS in work](./img/6_MiSlic.png)
+![Slicer with Measures in work](./img/6_MiSlic.jpg)
 
 View of slicer with measure names in Power BI
 
